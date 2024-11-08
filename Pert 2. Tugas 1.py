@@ -4,5 +4,5 @@ Kelas : 1B"""
 
 alas = int(input("alas: "))
 tinggi = int(input("tinggi: "))
-luas = alas * tinggi / 2
-print(f"luas segitiga: {luas}")
+luas_segitiga = alas * tinggi / 2
+print(f"luas segitiga: {luas_segitiga}")
