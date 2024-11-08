@@ -6,7 +6,7 @@ Kelas : 1B"""
 outputnya adalah “pass”. Tolong bantu Leni dengan masalahnya kali ini."""
 #=================================================================================================================
 
-for i in range(1,50): #menentukan batasan range dari 1 sampai 50
+for i in range(1,51): #menentukan batasan range dari 1 sampai 50
     if i % 5 == 0 : #mengetahui kelipatan 5 dengan mencari modulus i 
         print("pass")
     else : 
