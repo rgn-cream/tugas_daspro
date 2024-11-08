@@ -22,5 +22,7 @@ elif gender.lower() == "pria" :
     else :
         print("Anda tidak memenuhi syarat sebagai model catwalk")
 
+print("Selamat anda menjadi model catwalk")
+
 #================================================================================================================   
 
