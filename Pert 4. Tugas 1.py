@@ -4,7 +4,7 @@ NIM : 2406043"""
 
 #Data nama siswa, umur dan major/program studi 
 student_info = {
-    "Alice": {"age": 20, "major": "Computer Science"},
+    "Regina": {"age": 20, "major": "Computer Science"},
     "Bob": {"age": 21, "major": "Mathematics"},
     "Charlie": {"age": 19, "major":"Physics"}
 }
