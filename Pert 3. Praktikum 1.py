@@ -6,9 +6,10 @@ Kelas : 1B"""
 #No1 
 
 a = ["apel", "jeruk", "ceri", "durian", "apel", "mangga"]
-a[2] = "cherry"
+buah1 = a[3] = "cherry"
+buah2 = a[2] = "mangga"
 
-print(a)
+print(buah1, buah2)
 
 #No2 & 3
 
