@@ -9,7 +9,7 @@ def voltabung (r,t):
     #rumus volume tabung = phi * r^2 * t
     a = r**2
     b = t
-    v_tabung = 3.14 *a * b
+    v_tabung = 22/7 *a * b
     print(f"Volume tabung = {v_tabung}")
     return v_tabung
 
