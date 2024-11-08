@@ -5,7 +5,7 @@ Kelas : 1B"""
 #==========================================================================================================================
 # Menentukan terlebih dahulu apakah bilangan input positif atau negatif, lalu dicek ganjl atau genap
 
-bil = int(input("Masukkan bilangan bulat: "))
+bil = float(input("Masukkan bilangan bulat: "))
 
 if (bil>0): 
     bil_positif= "positif"
