@@ -9,6 +9,7 @@ sumBarang = int(input("Masukan Jumlah Barang: "))
 hargaA = 5000
 hargaB = 4000
 hargaC = 2500
+hargaD = 3000
 
 if sumBarang < 100:
     TotalA = sumBarang * hargaA # mencari total harga dengan operator kali 
