@@ -3,13 +3,13 @@ NIM : 2406043
 Kelas : 1B"""
 
 #=====================================================================================================
-"""Login dengan kesempatan 3 kali"""
+"""Login dengan kesempatan 5 kali"""
 #=====================================================================================================
 
 def login():
     print("Silahkan Login")
 
-    kesempatan = 3
+    kesempatan = 5
 
     for i in range(kesempatan):
         username = input("Username : ")
