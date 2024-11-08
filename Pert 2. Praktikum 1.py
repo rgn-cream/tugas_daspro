@@ -6,4 +6,5 @@ Kelas : 1B"""
 nama = input("Nama: ")
 umur = input("Umur: ")
 
-print(f"Selamat datang, {nama}. Umur anda {umur} tahun")
+print(f"Selamat datang, {nama} !")
+print(f"Umur anda saat ini adalah {umur}")
