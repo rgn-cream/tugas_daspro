@@ -10,7 +10,7 @@ Kelas : 1B"""
 #1a menampilkan nilai maksimum, minimun, dan rata-rata =====================================================================================
 
 #nilai maksimum
-r = [88, 75, 63, 97, 82, 74, 91, 80, 81, 63]
+r = [70,71,90,99,88,90,23,66,87]
 print(max(r)) #mencetak nilai maksimum dari list r
 
 #nilai minimum
