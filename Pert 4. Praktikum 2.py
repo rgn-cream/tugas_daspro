@@ -8,7 +8,8 @@ students = {
     "Bob" : "Mathematics",
     "Charlie" : "Physics",
     "David" : "Computer Science",
-    "Eva" : "Mathematics"
+    "Eva" : "Mathematics",
+    "Rere" : "RPL"
 }
 
 a = list(students.values()).count("Computer Science")
@@ -19,3 +20,6 @@ print("prodi mathematics sebanyak", b)
 
 c = list(students.values()).count("Physics")
 print("prodi physics sebanyak", c)
+
+d = list(students.values()).count("RPL")
+print("prodi physics sebanyak", d)
