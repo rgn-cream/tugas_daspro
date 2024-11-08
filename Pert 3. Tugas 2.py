@@ -14,7 +14,6 @@ Surabaya: (-7.2575, 112.7521)"""
 Jakarta = (-6.2088, 106.8456)
 Bandung = (-6.9175, 107.6191)
 Surabaya = (-7.2575, 112.7521)
-Garut = (-7.2507, 112.7526)
 
 print("Koordinat kota Bandung adalah:", Bandung) #Mencetak pasangan koordinat kota Bandung 
 print("latitude:", Bandung[0], ", longitude:", Bandung[1]) #Mencetak koordinat kota Bandung 
