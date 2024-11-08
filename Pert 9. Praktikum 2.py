@@ -22,7 +22,7 @@ while True :
         break #berhenti saat user memaskan nilai yang bukan angka
     
 funArgs(*angka_list)
-
+print("Program selesai")
 
 
 
