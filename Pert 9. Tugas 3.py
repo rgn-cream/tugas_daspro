@@ -42,7 +42,7 @@ hasil = selisih()
 
 #menampilkan hasil hanya jika hasil valid
 if hasil: 
-    print("\nSelisih waktu =", hasil[0], "Jam -", hasil[1], "Menit -", hasil[2], "Detik")
+    print("\nMAka, selisih waktu =", hasil[0], "Jam -", hasil[1], "Menit -", hasil[2], "Detik")
 
 
 
