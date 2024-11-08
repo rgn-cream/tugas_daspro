@@ -5,7 +5,7 @@ Kelas : 1B """
 #LATIHAN 2 =======================================================================================================
 #Buatlah sebuah program yang meminta pengguna memasukkan angka-angka berturut-turut. Program akan menghitung total angka yang dimasukkan pengguna hingga pengguna memasukkan angka negatif.
 
-jumlah = 1 #jumlah awal adalah 0 
+jumlah = 0 #jumlah awal adalah 0
 
 a = float(input("Masukkan angka: ")) #input angka 
 
