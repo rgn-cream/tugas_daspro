@@ -12,3 +12,8 @@ numbers = [10,20,20,30,40,50,50,60]
 elemen_unik = list(set(numbers)) 
 elemen_unik.sort() #mengurutkan list
 print(elemen_unik)
+
+numbers2 = [11,12,13,14,15,19,22,25]
+elemen_unik = list(set(numbers)) 
+elemen_unik.sort() #mengurutkan list
+print(elemen_unik)
