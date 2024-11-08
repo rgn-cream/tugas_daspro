@@ -12,9 +12,11 @@ elif nilai >= 80:
     print("nilai B")
 elif nilai >= 70:
     print("nilai C")
+elif nilai >= 50:
+    print("nilai D")
 
 else : 
-    print("nilai D")
+    print("nilai E")
 
 #====================================================================================================================
 
